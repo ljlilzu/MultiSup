@@ -21,8 +21,8 @@ year = {2020}
 
  
 
-The TF network is original available from https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5367313/,
-and all other networks are original downloaded from https://manliodedomenico.com/data.php.  
+The TF network is originally available from https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5367313/,
+and all other networks are originally downloaded from https://manliodedomenico.com/data.php.  
 
 If you use these networks, please cite the original references.
 

@@ -13,7 +13,6 @@ If you find the code useful, please cite our paper.
 `publisher = {Elsevier B.V.},`
 `title = {{Supervised link prediction in multiplex networks}},`
 `volume = {203},`
-
 `url = {https://linkinghub.elsevier.com/retrieve/pii/S0950705120304068},`
 `year = {2020}`
 `}`
